@@ -1,0 +1,14 @@
+@import '~office-ui-fabric-react/dist/sass/References.scss';
+
+.viewleads{
+ background: cornflowerblue;
+
+ *{
+    box-sizing: border-box;
+}   
+
+ .viewleadscont{
+     width: 80%;
+     float: left;
+    }
+}

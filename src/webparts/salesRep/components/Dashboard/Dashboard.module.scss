@@ -1,0 +1,15 @@
+@import '~office-ui-fabric-react/dist/sass/References.scss';
+.dashboard{
+
+    *{
+        box-sizing: border-box;
+    }
+    
+    .fcolor{
+        color: darkblue;
+    }
+    .dashcontainer{
+        width: 80%;
+        float: left;
+    }
+}
